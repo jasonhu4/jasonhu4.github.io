@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Jason Hu"
 title_separator          : "-"
-name                     : &name "Rodrigo A. Lobos"
+name                     : &name "Jason Hu"
 description              : &description "personal description"
 url                      : https://ralobos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  name             : "Jason Hu"
+  avatar           : "jason_profile.JPG"
+  bio              : "PhD student at University of Michigan <b>rlobos@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=0x7MxrkAAAAJ"
   email            : #"rlobos@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
