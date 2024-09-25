@@ -10,4 +10,5 @@ redirect_from:
 
 [Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I am a Ph.D. student working under the guidance of Prof. Jeffrey Fessler and Prof. Liyue Shen at the University of Michigan. My research is in the area of developing generative AI and ML based algorithms for image processing applications. I primarily focus on using score-based diffusion models coupled with deep learning and optimization techniques to solve computational imaging problems. My research efforts consist of imaging applications with collaborations with researchers in medicine, physics, and computer vision, as well as theoretical and foundational analysis of imaging.
+
