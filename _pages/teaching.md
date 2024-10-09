@@ -5,4 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Currently under construction. Please check again later!
+GSI for EECS 556 Image Processing Winter 2024 at University of Michigan
+
+Class Instructor and Coordinator for AMC math competition series at NCCAE (2021-2022)
