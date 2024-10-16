@@ -25,6 +25,7 @@ author_profile: true
 
 <b>Conference</b>
 ======
+* <b>J. Hu</b>, B. Song, J. A. Fessler, L. Shen. <br>[Patch-based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems](https://arxiv.org/abs/2410.11730)<br><em> International Conference on Learning Representations (under review), 2025.</em>
 
 * Z. Li, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Reducing SPECT Acquisition Time by Predicting Missing Projections with Single-Scan Self-Supervised Coordinate-based Learning](https://jnm.snmjournals.org/content/64/supplement_1/P1014.abstract)<br><em> Journal of Nuclear Medicine, 2023, P1014.</em>
 
