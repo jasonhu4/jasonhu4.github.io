@@ -16,12 +16,13 @@ author_profile: true
 
 <b>Journal</b>
 ======
+* <b>J. Hu&#9733;</b>, Z. Li&#9733;, X. Xu, L. Shen, J. A. Fessler. <br>[Accelerated Wirtinger Flow With Score-Based Image Prior for Holographic Phase Retrieval in Poisson-Gaussian Noise Conditions.](https://ieeexplore.ieee.org/document/10695090)<br><em>IEEE Transactions in Computational Imaging (TCI), 2024.</em>
+* <b>J. Hu</b>, B. T.-W. Lin, J. H. Vega, N. R.-L. Tsiang. <br>[Predictive Models of Driver Deceleration and Acceleration Responses to Lead Vehicle Cutting in and Out](https://journals.sagepub.com/doi/full/10.1177/03611981221128277)<br><em> Transportation Research Record: Journal of the Transportation Research Record, 2022, pp. 92-102.</em>
 * T. Hong, X. Xu, <b>J. Hu</b>, J. A. Fessler. <br>[Provable Preconditioned Plug-and-Play Approach for Compressed Sensing MRI Reconstruction](https://arxiv.org/pdf/2411.08178)<br><em> IEEE Transactions in Computational Imaging (TCI), 2024.</em>
 * X. Xu, M. Klasky, M. T. McCann, <b>J. Hu</b>, J. A. Fessler. <br>[Swap-Net: A Memory-Efficient 2.5D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836)<br><em> IEEE Transactions in Computational Imaging (TCI) (under review), 2024.</em>
 * T. Hong, Z. Xu, <b>J. Hu</b>, J. A. Fessler. <br>[On Adapting Randomized Nystrom Preconditioners to Accelerate Variational Image Reconstruction](https://ieeexplore.ieee.org/document/10711213)<br><em> IEEE Transactions in Computational Imaging (TCI) (under review), 2024.</em>
 * Z. Li, Y. Jia, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views](https://arxiv.org/abs/2406.18840)<br><em> European Journal of Nuclear Medicine and Molecular Imaging (under review), 2024.</em>
-* <b>J. Hu&#9733;</b>, Z. Li&#9733;, X. Xu, L. Shen, J. A. Fessler. <br>[Accelerated Wirtinger Flow With Score-Based Image Prior for Holographic Phase Retrieval in Poisson-Gaussian Noise Conditions.](https://ieeexplore.ieee.org/document/10695090)<br><em>IEEE Transactions in Computational Imaging (TCI), 2024.</em>
-* <b>J. Hu</b>, B. T.-W. Lin, J. H. Vega, N. R.-L. Tsiang. <br>[Predictive Models of Driver Deceleration and Acceleration Responses to Lead Vehicle Cutting in and Out](https://journals.sagepub.com/doi/full/10.1177/03611981221128277)<br><em> Transportation Research Record: Journal of the Transportation Research Record, 2022, pp. 92-102.</em>
+
 
 
 
