@@ -16,19 +16,20 @@ author_profile: true
 
 <b>Journal</b>
 ======
+* <b>J. Hu</b>, B. Song, J. A. Fessler, L. Shen. <br>[Test-Time Adaptation Improves Inverse Problem Solving With Patch-Based Diffusion Models](https://ieeexplore.ieee.org/document/11074715)<br><em> IEEE Transactions in Computational Imaging (TCI), 2025.</em>
 * <b>J. Hu&#9733;</b>, Z. Li&#9733;, X. Xu, L. Shen, J. A. Fessler. <br>[Accelerated Wirtinger Flow With Score-Based Image Prior for Holographic Phase Retrieval in Poisson-Gaussian Noise Conditions.](https://ieeexplore.ieee.org/document/10695090)<br><em>IEEE Transactions in Computational Imaging (TCI), 2024.</em>
 * <b>J. Hu</b>, B. T.-W. Lin, J. H. Vega, N. R.-L. Tsiang. <br>[Predictive Models of Driver Deceleration and Acceleration Responses to Lead Vehicle Cutting in and Out](https://journals.sagepub.com/doi/full/10.1177/03611981221128277)<br><em> Transportation Research Record: Journal of the Transportation Research Record, 2022, pp. 92-102.</em>
 * T. Hong, X. Xu, <b>J. Hu</b>, J. A. Fessler. <br>[Provable Preconditioned Plug-and-Play Approach for Compressed Sensing MRI Reconstruction](https://arxiv.org/pdf/2411.08178)<br><em> IEEE Transactions in Computational Imaging (TCI), 2024.</em>
-* X. Xu, M. Klasky, M. T. McCann, <b>J. Hu</b>, J. A. Fessler. <br>[Swap-Net: A Memory-Efficient 2.5D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836)<br><em> IEEE Transactions in Computational Imaging (TCI) (under review), 2024.</em>
-* T. Hong, Z. Xu, <b>J. Hu</b>, J. A. Fessler. <br>[On Adapting Randomized Nystrom Preconditioners to Accelerate Variational Image Reconstruction](https://ieeexplore.ieee.org/document/10711213)<br><em> IEEE Transactions in Computational Imaging (TCI) (under review), 2024.</em>
-* Z. Li, Y. Jia, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views](https://arxiv.org/abs/2406.18840)<br><em> European Journal of Nuclear Medicine and Molecular Imaging (under review), 2024.</em>
+* X. Xu, M. Klasky, M. T. McCann, <b>J. Hu</b>, J. A. Fessler. <br>[Swap-Net: A Memory-Efficient 2.5D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836)<br><em> IEEE Transactions in Computational Imaging (TCI), 2025.</em>
+* T. Hong, Z. Xu, <b>J. Hu</b>, J. A. Fessler. <br>[On Adapting Randomized Nystrom Preconditioners to Accelerate Variational Image Reconstruction](https://arxiv.org/abs/2411.08178)<br><em> IEEE Transactions in Computational Imaging (TCI) (under review), 2024.</em>
+* Z. Li, Y. Jia, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views](https://pubmed.ncbi.nlm.nih.gov/40392417/)<br><em> European Journal of Nuclear Medicine and Molecular Imaging, 2025.</em>
 
 
 
 
 <b>Conference</b>
 ======
-* <b>J. Hu</b>, B. Song, J. A. Fessler, L. Shen. <br>[Patch-based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems](https://arxiv.org/abs/2410.11730)<br><em> International Conference on Learning Representations (under review), 2025.</em>
+* B. Song, Z. Zhang, Z. Luo, <b>J. Hu</b>, W. Yuan, J. Jia, Z. Tang, G. Wang, L. Shen. <br>[CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670)<br><em> Advances in Neural Information Processing Systems (under review), 2025.</em>
 
 * Z. Li, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Reducing SPECT Acquisition Time by Predicting Missing Projections with Single-Scan Self-Supervised Coordinate-based Learning](https://jnm.snmjournals.org/content/64/supplement_1/P1014.abstract)<br><em> Journal of Nuclear Medicine, 2023, P1014.</em>
 
