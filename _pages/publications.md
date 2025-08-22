@@ -29,6 +29,8 @@ author_profile: true
 
 <b>Conference</b>
 ======
+* <b>J. Hu</b>, Z. Li, B. Song, L. Shen, J. A. Fessler. <br>[SPAR: Refining a Single Pretrained Diffusion Model to Solve Inverse Problems in Many Modalities](https://openreview.net/forum?id=rx7bDU7nJ8&referrer=%5Bthe%20profile%20of%20Jason%20Hu%5D(%2Fprofile%3Fid%3D~Jason_Hu1))<br><em> Advances in Neural Information Processing Systems (under review), 2025.</em>
+
 * B. Song, Z. Zhang, Z. Luo, <b>J. Hu</b>, W. Yuan, J. Jia, Z. Tang, G. Wang, L. Shen. <br>[CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670)<br><em> Advances in Neural Information Processing Systems (under review), 2025.</em>
 
 * Z. Li, X. Xu, <b>J. Hu</b>, J. A. Fessler, Y. Dewaraja. <br>[Reducing SPECT Acquisition Time by Predicting Missing Projections with Single-Scan Self-Supervised Coordinate-based Learning](https://jnm.snmjournals.org/content/64/supplement_1/P1014.abstract)<br><em> Journal of Nuclear Medicine, 2023, P1014.</em>
