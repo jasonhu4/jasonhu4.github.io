@@ -18,6 +18,8 @@ I am a Ph.D. student working under the guidance of Prof. Jeffrey Fessler and Pro
 ---
 
 ## News
+- **Oct 2025**: I was selected for the NeurIPS 2025 Top Reviewer reward.
+- **Sep 2025**: Our work [CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](https://arxiv.org/abs/2502.04670) has been accepted to NuerIPS 2025.
 - **Aug 2025**: My team was one of three winners of the LinkedIn Intern Hackathon (total 35 teams)!
 - **Jul 2025**: I was awarded the [J. Robert Beyster Computational Innovation Graduate Fellowship](https://ece.engin.umich.edu/stories/jason-hu-receives-beyster-fellowship-to-support-research-in-generative-ai-and-ml-for-imaging) to support my PhD research in diffusion models and imaging!
 - **Jul 2025**: Our work [Test-Time Adaptation Improves Inverse Problem Solving With Patch-Based Diffusion Models
